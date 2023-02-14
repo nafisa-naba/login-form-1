@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(134, 214, 235, 0.571);
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color:black;
+}
+
+.img{
+    border-radius: 200px;
+}
+.but{
+    background-color:rgb(123, 123, 248) ;
+    padding: 10px;
+    border-radius: 7px;
+
+}
+.allinput{
+    display: flex;
+    flex-direction: column;
+    display: grid;
+    grid-gap: 5px;
+}
+.inputn{
+    width: 250px;
+    height:30px ;
+    padding: 5px;
+    margin: auto;
+
+}
+.class1{
+    background-color: cornflowerblue;
+    margin: auto;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+
+}
+.img2{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
